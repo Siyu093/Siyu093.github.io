@@ -610,8 +610,12 @@
       "authors": "Chan, P. S., Fang, Y., Kawuki, J., Chen, S., Liang, X., Mo, P. K., & Wang, Z",
       "year": 2023,
       "journal": "Vaccines (Basel), 11(8)",
-      "doi": "10.3390/vaccines11081360",
-      "url": "https://doi.org/10.3390/vaccines11081360",
+      "doi": "10.3390/vaccines11081360
+        
+        ",
+      "url": "https://doi.org/10.3390/vaccines11081360
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -621,8 +625,12 @@
       "authors": "Zhang, K., Liang, X., Tam, K. L. W., Kawuki, J., Chan, P. S., Chen, S., Fang, Y., Cao, H., Zhou, X., Chen, Y., Hu, T., Chen, H., & Wang, Z",
       "year": 2023,
       "journal": "Vaccines (Basel), 11(1)",
-      "doi": "10.3390/vaccines11010170",
-      "url": "https://doi.org/10.3390/vaccines11010170",
+      "doi": "10.3390/vaccines11010170
+        
+        ",
+      "url": "https://doi.org/10.3390/vaccines11010170
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -632,8 +640,12 @@
       "authors": "Zhang, L., Yang, J., Su, R., Du, X., Wang, Y., Chen, S., Chan, P. S., Wang, Z., & Xu, J",
       "year": 2023,
       "journal": "Hum Vaccin Immunother, 19(2), 2222648",
-      "doi": "10.1080/21645515.2023.2222648",
-      "url": "https://doi.org/10.1080/21645515.2023.2222648",
+      "doi": "10.1080/21645515.2023.2222648
+        
+        ",
+      "url": "https://doi.org/10.1080/21645515.2023.2222648
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -643,8 +655,12 @@
       "authors": "Zhou, X., Wang, S., Zhang, K., Chen, S., Chan, P. S., Fang, Y., Cao, H., Chen, H., Hu, T., Chen, Y., & Wang, Z",
       "year": 2022,
       "journal": "Vaccines (Basel), 10(9)",
-      "doi": "10.3390/vaccines10091478",
-      "url": "https://doi.org/10.3390/vaccines10091478",
+      "doi": "10.3390/vaccines10091478
+        
+        ",
+      "url": "https://doi.org/10.3390/vaccines10091478
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -654,14 +670,18 @@
       "authors": "Ho Q M, Duong B T, Nguyen L N T, et al.",
       "year": 2026,
       "journal": "PLOS ONE",
-      "doi": "10.1371/journal.pone.0348450",
-      "url": "https://doi.org/10.1371/journal.pone.0348450",
+      "doi": "10.1371/journal.pone.0348450
+        
+        ",
+      "url": "https://doi.org/10.1371/journal.pone.0348450
+        
+        ",
       "selected": false,
       "category": "Research"
     }
   ],
   "about_paragraphs": [
-    "I am a Postdoctoral Fellow at the Jockey Club School of Public Health and Primary Care, The Chinese University of Hong Kong (CUHK). My research focuses on AI-enabled digital health interventions, HIV prevention and sexual health, vaccination, and health behavior change.",
+    "I am a Postdoctoral Fellow at the Jockey Club School of Public Health and Primary Care, The Chinese University of Hong Kong (CUHK). My research focuses on digital health interventions, HIV prevention, vaccination, and health behavior change.",
     "I received my PhD in Public Health from CUHK in 2025 and earned both a Master of Public Health and a Master of International Public Health from UNSW Sydney in 2018. I was also a visiting researcher at Yale University School of Nursing from December 2024 to March 2025.",
     "My work integrates randomized controlled trials, behavioral science, evidence synthesis, and implementation research to develop accessible and effective public health interventions."
   ],
