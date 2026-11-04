@@ -2,3 +2,43 @@
 .about-paragraph{margin:0 0 14px;line-height:1.75} .education-row a{color:#1768a5;text-decoration:none}.education-row a:hover{text-decoration:underline}
 
 .visiting-title{margin:28px 0 14px;font-size:17px;letter-spacing:-.35px;color:#314c6c}
+
+/* Academic website typography */
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  line-height: 1.75;
+}
+
+h1, h2, h3,
+.logo, .email {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.5px;
+}
+
+h1 {
+  font-size: clamp(36px, 4vw, 52px);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: clamp(26px, 2.5vw, 34px);
+  font-weight: 700;
+}
+
+.hero-sub {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.lead {
+  font-size: 15px;
+  line-height: 1.85;
+}
+
+.pub-title {
+  font-size: 14px;
+  font-weight: 600;
+}
