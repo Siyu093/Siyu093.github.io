@@ -9,7 +9,7 @@
   "pubmed": "https://www.ncbi.nlm.nih.gov/myncbi/siyu.chen.12/bibliography/public/",
   "website": "https://www.chbr.sphpc.cuhk.edu.hk/siyuchen",
   "scholar": "",
-  "about": "I am a postdoctoral researcher in public health at The Chinese University of Hong Kong. My work brings together digital health, behavioral science, and infectious disease prevention, with a focus on designing and evaluating AI-enabled interventions that can support accessible, evidence-based healthcare.",
+  "about": "I am a Postdoctoral Fellow in public health at The Chinese University of Hong Kong. My work brings together digital health, behavioral science, and infectious disease prevention.",
   "focus": [
     {
       "name": "AI & Digital Health",
@@ -94,8 +94,8 @@
       "organization": "BMC Public Health"
     },
     {
-      "role": "Guest Editor",
-      "organization": "Vaccines — Global Immunization Inequities"
+      "role": "Early Editorial Board",
+      "organization": "Vaccines"
     }
   ],
   "publications": [
