@@ -1,6 +1,6 @@
 {
   "name": "Siyu Chen",
-  "credentials": "PhD, MPH, MIPH",
+  "credentials": "PhD, MPH, MIPH, BMed",
   "role": "Postdoctoral Fellow",
   "affiliation": "Jockey Club School of Public Health and Primary Care, The Chinese University of Hong Kong",
   "location": "Hong Kong SAR",
@@ -9,7 +9,7 @@
   "pubmed": "https://www.ncbi.nlm.nih.gov/myncbi/siyu.chen.12/bibliography/public/",
   "website": "https://www.chbr.sphpc.cuhk.edu.hk/siyuchen",
   "scholar": "",
-  "about": "I am a postdoctoral researcher in public health at The Chinese University of Hong Kong. My work brings together digital health, behavioral science, and infectious disease prevention, with a focus on designing and evaluating AI-enabled interventions that can support accessible, evidence-based healthcare.",
+  "about": "I am a Postdoctoral Fellow in public health at The Chinese University of Hong Kong. My work brings together behavioral health, digital health and infectious disease prevention."
   "focus": [
     {
       "name": "AI & Digital Health",
@@ -76,7 +76,7 @@
     },
     {
       "date": "2024-12",
-      "text": "Started a visiting research appointment at Yale University School of Nursing.",
+      "text": "Started a visiting research appointment at Yale University.",
       "url": ""
     }
   ],
@@ -94,8 +94,8 @@
       "organization": "BMC Public Health"
     },
     {
-      "role": "Guest Editor",
-      "organization": "Vaccines — Global Immunization Inequities"
+      "role": "Early Career Editorial Board",
+      "organization": "Vaccines"
     }
   ],
   "publications": [
@@ -662,8 +662,8 @@
     }
   ],
   "about_paragraphs": [
-    "I am a Postdoctoral Fellow at the Jockey Club School of Public Health and Primary Care, The Chinese University of Hong Kong (CUHK). My research focuses on AI-enabled digital health interventions, HIV prevention and sexual health, vaccination, and health behavior change.",
-    "I received my PhD in Public Health from CUHK in 2025 and earned both a Master of Public Health and a Master of International Public Health from UNSW Sydney in 2018. I was also a visiting researcher at Yale University School of Nursing from December 2024 to March 2025.",
+    "I am a Postdoctoral Fellow at the Jockey Club School of Public Health and Primary Care, The Chinese University of Hong Kong (CUHK). My research focuses on digital health interventions, HIV prevention, vaccination, and health behavior change.",
+    "I received my PhD in Public Health from CUHK in 2025 and earned both a Master of Public Health and a Master of International Public Health from UNSW Sydney in 2018. I was also a visiting researcher at Yale University from December 2024 to March 2025.",
     "My work integrates randomized controlled trials, behavioral science, evidence synthesis, and implementation research to develop accessible and effective public health interventions."
   ],
   "visiting_experience": [
