@@ -3,45 +3,159 @@
 
 .visiting-title{margin:28px 0 14px;font-size:17px;letter-spacing:-.35px;color:#314c6c}
 
-/* Academic website typography */
 
+/* ====================================
+   Academic Website Typography
+   Font: Inter
+   ==================================== */
+
+/* Global typography */
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', Arial, sans-serif;
   font-size: 15px;
   line-height: 1.75;
+  color: #17253c;
 }
 
+/* Headings */
 h1, h2, h3,
 .logo, .email {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', Arial, sans-serif;
   letter-spacing: -0.5px;
 }
 
+/* Main homepage title */
 h1 {
-  font-size: clamp(36px, 4vw, 52px);
+  font-size: clamp(36px, 4vw, 48px);
   font-weight: 700;
   line-height: 1.2;
 }
 
+/* Section headings */
 h2 {
   font-size: clamp(26px, 2.5vw, 34px);
   font-weight: 700;
+  line-height: 1.3;
 }
 
+h3 {
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+/* Navigation */
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.nav nav a {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+/* Homepage subtitle */
 .hero-sub {
   font-size: 16px;
   font-weight: 500;
+  line-height: 1.7;
 }
 
+/* Homepage introductory paragraph */
 .lead {
   font-size: 15px;
+  font-weight: 400;
   line-height: 1.85;
+  max-width: 650px;
 }
 
+/* About Me */
+.about-paragraph {
+  font-size: 15px;
+  line-height: 1.85;
+  margin-bottom: 16px;
+}
+
+/* Section descriptions */
+.section-head > p {
+  font-size: 14px;
+  line-height: 1.75;
+}
+
+/* Research interest cards */
+.focus-card h3 {
+  font-size: 17px;
+  font-weight: 600;
+}
+
+/* Selected publications */
+.featured-card h3 {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+/* Complete publication list */
 .pub-title {
   font-size: 14px;
   font-weight: 600;
+  line-height: 1.65;
 }
-h1 {
-  font-size: clamp(34px, 4vw, 48px);
+
+.pub-meta,
+.pub-authors {
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+/* News */
+.news-text {
+  font-size: 14px;
+  line-height: 1.8;
+}
+
+/* Education */
+.education-row strong {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.education-row span {
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+/* Mobile typography */
+@media (max-width: 620px) {
+
+  h1 {
+    font-size: 36px;
+    line-height: 1.2;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  h3 {
+    font-size: 17px;
+  }
+
+  .hero-sub {
+    font-size: 15px;
+  }
+
+  .lead,
+  .about-paragraph {
+    font-size: 14px;
+    line-height: 1.8;
+  }
+
+  .pub-title {
+    font-size: 13px;
+  }
+
+  .news-text {
+    font-size: 13px;
+  }
 }
