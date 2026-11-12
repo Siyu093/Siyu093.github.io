@@ -599,8 +599,12 @@
       "authors": "Wang, Z., Fang, Y., Yu, F. Y., Chan, P. S., & Chen, S",
       "year": 2022,
       "journal": "Vaccines (Basel), 10(5)",
-      "doi": "10.3390/vaccines10050732",
-      "url": "https://doi.org/10.3390/vaccines10050732",
+      "doi": "10.3390/vaccines10050732
+        
+        ",
+      "url": "https://doi.org/10.3390/vaccines10050732
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -610,8 +614,12 @@
       "authors": "Wang, Z., Fang, Y., Yu, F. Y., Chan, P. S., Chen, S., & Sun, F",
       "year": 2022,
       "journal": "Vaccines (Basel), 10(6)",
-      "doi": "10.3390/vaccines10060966",
-      "url": "https://doi.org/10.3390/vaccines10060966",
+      "doi": "10.3390/vaccines10060966
+        
+        ",
+      "url": "https://doi.org/10.3390/vaccines10060966
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -621,8 +629,12 @@
       "authors": "Chan, P. S., Fang, Y., Kawuki, J., Chen, S., Liang, X., Mo, P. K., & Wang, Z",
       "year": 2023,
       "journal": "Vaccines (Basel), 11(8)",
-      "doi": "10.3390/vaccines11081360",
-      "url": "https://doi.org/10.3390/vaccines11081360",
+      "doi": "10.3390/vaccines11081360
+        
+        ",
+      "url": "https://doi.org/10.3390/vaccines11081360
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -632,8 +644,12 @@
       "authors": "Zhang, K., Liang, X., Tam, K. L. W., Kawuki, J., Chan, P. S., Chen, S., Fang, Y., Cao, H., Zhou, X., Chen, Y., Hu, T., Chen, H., & Wang, Z",
       "year": 2023,
       "journal": "Vaccines (Basel), 11(1)",
-      "doi": "10.3390/vaccines11010170",
-      "url": "https://doi.org/10.3390/vaccines11010170",
+      "doi": "10.3390/vaccines11010170
+        
+        ",
+      "url": "https://doi.org/10.3390/vaccines11010170
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -643,8 +659,12 @@
       "authors": "Zhang, L., Yang, J., Su, R., Du, X., Wang, Y., Chen, S., Chan, P. S., Wang, Z., & Xu, J",
       "year": 2023,
       "journal": "Hum Vaccin Immunother, 19(2), 2222648",
-      "doi": "10.1080/21645515.2023.2222648",
-      "url": "https://doi.org/10.1080/21645515.2023.2222648",
+      "doi": "10.1080/21645515.2023.2222648
+        
+        ",
+      "url": "https://doi.org/10.1080/21645515.2023.2222648
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -654,8 +674,12 @@
       "authors": "Zhou, X., Wang, S., Zhang, K., Chen, S., Chan, P. S., Fang, Y., Cao, H., Chen, H., Hu, T., Chen, Y., & Wang, Z",
       "year": 2022,
       "journal": "Vaccines (Basel), 10(9)",
-      "doi": "10.3390/vaccines10091478",
-      "url": "https://doi.org/10.3390/vaccines10091478",
+      "doi": "10.3390/vaccines10091478
+        
+        ",
+      "url": "https://doi.org/10.3390/vaccines10091478
+        
+        ",
       "selected": false,
       "category": "Research"
     },
@@ -665,11 +689,15 @@
       "authors": "Ho Q M, Duong B T, Nguyen L N T, et al.",
       "year": 2026,
       "journal": "PLOS ONE",
-      "doi": "10.1371/journal.pone.0348450",
-      "url": "https://doi.org/10.1371/journal.pone.0348450",
+      "doi": "10.1371/journal.pone.0348450
+        
+        ",
+      "url": "https://doi.org/10.1371/journal.pone.0348450
+        
+        ",
       "selected": false,
       "category": "Research"
-    }
+    }，
     {
   "number": 52,
   "title": "Long-term impacts of COVID-19 volunteering on healthcare professional students’ learning, ethics, and future crisis responses: a multicenter cross-sectional study",
@@ -678,10 +706,10 @@
   "journal": "BMC Public Health",
   "doi": "10.1186/s12889-026-29591-4
         
-        IF: 4.4 Q1 B2",
+         ",
   "url": "https://doi.org/10.1186/s12889-026-29591-4
         
-        IF: 4.4 Q1 B2",
+         ",
   "selected": false,
   "category": "Research"
    }
