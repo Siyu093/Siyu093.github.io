@@ -11,7 +11,7 @@ function cvRow(target, date, primary, institution, url = '', detail = '', tag = 
 }
 function publication(target,p,i,selected=false){const row=elem('div','pub-item'+(selected?' selected-pub':''));row.append(elem('span','pub-index',String(i+1).padStart(2,'0')));const details=elem('div');const link=external(p.url||('https://doi.org/'+p.doi),p.title+' ↗');link.className='pub-title';details.append(link,elem('div','pub-meta',p.journal+' · '+p.year),elem('div','pub-authors',p.authors));row.append(details);$(target).append(row)}
 async function load(){let data;
- try{const response=await fetch('content.json',{cache:'no-store'});if(!response.ok)throw new Error('HTTP '+response.status);data=await response.json()}
+ try{const response=await fetch('SiyuChen_content_FIXED.json',{cache:'no-store'});if(!response.ok)throw new Error('HTTP '+response.status);data=await response.json()}
  catch(error){const warning=elem('p','source-note','Unable to load content.json. Check that it contains valid JSON and is saved in the repository root.');$('#education-list').append(warning);console.error(error);return}
  $('#person-name').textContent=data.name;$('#hero-role').textContent=data.role+' · '+data.affiliation;
  $('#affiliation').textContent=data.affiliation;$('#location').textContent=data.location;$('#copyright-year').textContent=new Date().getFullYear();
