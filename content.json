@@ -697,19 +697,22 @@
         ",
       "selected": false,
       "category": "Research"
-    },
-    
-{
+    },    
+    {
   "number": 52,
   "title": "Long-term impacts of COVID-19 volunteering on healthcare professional students’ learning, ethics, and future crisis responses: a multicenter cross-sectional study",
   "authors": "Nguyen H T, Duong B T, Susilawati T N, et al.",
   "year": 2026,
   "journal": "BMC Public Health",
-  "doi": "10.1186/s12889-026-29591-4",
-  "url": "https://doi.org/10.1186/s12889-026-29591-4",
+  "doi": "10.1186/s12889-026-29591-4
+        
+        ",
+  "url": "https://doi.org/10.1186/s12889-026-29591-4
+        
+        ",
   "selected": false,
   "category": "Research"
-}
+  }
   ],
   "about_paragraphs": [
     "I am a Postdoctoral Fellow at the Jockey Club School of Public Health and Primary Care, The Chinese University of Hong Kong (CUHK). My research focuses on digital health, HIV prevention and sexual health, vaccination, and health behavior change.",
